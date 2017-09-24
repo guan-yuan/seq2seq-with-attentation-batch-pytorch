@@ -1,5 +1,5 @@
 # this a CBOW implementation using Pytorch
-# modified by http://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html
+# modified from http://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html
 
 raw_text = """台北 世大運 19 日 開幕 為期 12 天 有 134 國 近萬
 運動員 參賽 在 7 萬名 工作 人員 1 萬 多名 志工 參與 之下 舉辦 271 個
