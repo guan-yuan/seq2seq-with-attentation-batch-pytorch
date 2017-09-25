@@ -8,7 +8,7 @@ scikit-learn<br>
 sconce<br>
 
 ## Dataset:
-[Link](https://drive.google.com/drive/folders/0B4-rB9HD2WbEMXhScHVBOHFqeTA?usp=sharing)<p>
+[Link](https://drive.google.com/drive/folders/0B4-rB9HD2WbEMXhScHVBOHFqeTA?usp=sharing)<br>
 Download from the "Link", then replace the "./data" folder.<p>
 
 Note: This dataset is modified from the [NOAH'S ARK LAB Short-Text Conversation dataset](http://www.noahlab.com.hk/topics/DeepLearning4NLPDatasets). <p>
@@ -18,7 +18,7 @@ Neural Responding Machine for Short-Text Conversation. Lifeng Shang, Zhengdong L
 
 
 ## Access trained parameters and records:
-[Link](https://drive.google.com/drive/folders/0B4-rB9HD2WbENFh5VGROcUNxekE?usp=sharing)<p>
+[Link](https://drive.google.com/drive/folders/0B4-rB9HD2WbENFh5VGROcUNxekE?usp=sharing)<br>
 Download from the "Link", then replace the "./save" folder.
 
 ## Happy train; Happy gain!
