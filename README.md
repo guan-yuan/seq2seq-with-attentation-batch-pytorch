@@ -4,11 +4,11 @@ I'm planning to integrate the Word2Vec in the model soon. You also can try to us
 
 ## Dataset:
 [Link](https://drive.google.com/drive/folders/0B4-rB9HD2WbEMXhScHVBOHFqeTA?usp=sharing)
-Download from the "Link", then replace the "./data" folder.
+Download from the "Link", then replace the "./data" folder.<p>
 
-Note: This dataset is modified from the [NOAH'S ARK LAB Short-Text Conversation dataset](http://www.noahlab.com.hk/topics/DeepLearning4NLPDatasets). 
+Note: This dataset is modified from the [NOAH'S ARK LAB Short-Text Conversation dataset](http://www.noahlab.com.hk/topics/DeepLearning4NLPDatasets). <p>
 
-Please cite the following paper if you use the data in your work.<p>
+Please cite the following paper if you use the data in your work.
 Neural Responding Machine for Short-Text Conversation. Lifeng Shang, Zhengdong Lu, and Hang Li. ACL 2015.
 
 
