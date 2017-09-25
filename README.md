@@ -2,6 +2,11 @@
 It's the baseline model (seq2seq with attention mechanism) for the formosa grand challenge, which is modified from [pratical-pytorch seq2seq-translation-batched](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html#) and [Tensorflow Sequence-to-Sequence Models](https://www.tensorflow.org/tutorials/seq2seq).
 I'm planning to integrate the Word2Vec in the model soon. You also can try to use the embedding produced from CBOW code or other pre-trained Word2Vec to replace the torch.nn.Embedding(num_embeddings, embedding_dim) in the encoder and decoder models.
 
+## Requirements
+pytorch v0.2.0<p>
+scikit-learn<p>
+sconce<p>
+
 ## Dataset:
 [Link](https://drive.google.com/drive/folders/0B4-rB9HD2WbEMXhScHVBOHFqeTA?usp=sharing)
 Download from the "Link", then replace the "./data" folder.<p>
