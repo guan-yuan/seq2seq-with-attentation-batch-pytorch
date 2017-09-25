@@ -8,7 +8,7 @@ Download from the "Link", then replace the "./data" folder.
 
 Note: This dataset is modified from the [NOAH'S ARK LAB Short-Text Conversation dataset](http://www.noahlab.com.hk/topics/DeepLearning4NLPDatasets). 
 
-Please cite the following paper if you use the data in your work.
+Please cite the following paper if you use the data in your work.<p>
 Neural Responding Machine for Short-Text Conversation. Lifeng Shang, Zhengdong Lu, and Hang Li. ACL 2015.
 
 
